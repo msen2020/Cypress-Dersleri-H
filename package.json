@@ -1,0 +1,22 @@
+{
+  "name": "cypress-dersleri",
+  "version": "1.0.0",
+  "description": "Cypress Lessons with Hamza Hoca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msen2020/Cypress-Dersleri.git"
+  },
+  "author": "Mehmet Sen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msen2020/Cypress-Dersleri/issues"
+  },
+  "homepage": "https://github.com/msen2020/Cypress-Dersleri#readme",
+  "dependencies": {
+    "cypress": "^12.17.2"
+  }
+}
