@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/msen2020/Cypress-Dersleri#readme",
   "dependencies": {
-    "cypress": "^12.17.2"
+    "cypress": "^4.2.0"
   }
 }
